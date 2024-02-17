@@ -9,4 +9,5 @@
 * NOT_SUPPORTED - if TRX exists - suspends and go without TRX
 * NEVER - TRX must not exist, if TRX exists - exception
 ```
+
 ## ISOLATION
